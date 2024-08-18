@@ -62,8 +62,9 @@ B机在功耗上要求虽然有所降低，更多考虑足够的性能，但并�
 
 提供多媒体服务， emby dlna 等服务器
 
-
-
+PhotoPrism：
+https://docs.photoprism.app/getting-started/
+https://demo.photoprism.app/library/folders
 #he zyieo.github.io
 
 https://hamradio.my/2024/05/setting-up-a-network-attached-storage-nas-using-ubuntu-at-home/
